@@ -36,7 +36,6 @@ Hạn nhóm theo dõi là **06/12/2026**. Quy định học phần yêu cầu n�
 
 ## Liên kết dự án
 
-- [Bảng quản lý công việc Nhóm 7](https://branchflow-sqa-qc-team.niftyzinnia3.chatgpt.site)
 - [Thư mục Google Drive của nhóm](https://drive.google.com/drive/folders/1hm2c2UQa89mRtVJij16MNRksmu5zmKVW?usp=sharing)
 - [Kho GitHub QA-QC](https://github.com/thuannguyen31241023190-ux/QA-QC)
 
